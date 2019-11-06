@@ -1,0 +1,7 @@
+sbatch: error: Unable to open file /home/jsimonis/portal_weekly_forecast.sh
+sbatch: error: Unable to open file /home/jsimonis/portal_weekly_forecast.sh
+sbatch: error: Batch script contains DOS line breaks (\r\n)
+sbatch: error: instead of expected UNIX line breaks (\n).
+Submitted batch job 43711123
+Submitted batch job 43711318
+Submitted batch job 43713061

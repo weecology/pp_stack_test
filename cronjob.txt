@@ -15,4 +15,4 @@ MAILTO=jsimonis@ufl.edu
 GITHUB_TOKEN="WEECOLOGYDEPLOYGITHUBPAT"
 GITHUB_RELEASE_TOKEN="WEECOLOGYDEPLOYGITHUBPAT"
 TRAVIS_EVENT_TYPE="cron"
-1 * * * * sbatch ${HOME}/portal_weekly_forecast.sh >> ${HOME}/cron.log 2>&1
+41 * * * * sbatch ${HOME}/portal_weekly_forecast.sh >> ${HOME}/cron.log 2>&1
