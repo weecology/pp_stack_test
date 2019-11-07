@@ -21,3 +21,4 @@ git clone https://github.com/weecology/pp_stack_test.git
 cd pp_stack_test
 singularity run ../portal_predictions_latest.sif Rscript stack_test.R
 singularity run ../portal_predictions_latest.sif Rscript tests/testthat.R > ../testthat.log 2>&1
+singularity run ../portal_predictions_latest.sif bash archive_hipergator.sh
