@@ -5,3 +5,10 @@ sbatch: error: instead of expected UNIX line breaks (\n).
 Submitted batch job 43711123
 Submitted batch job 43711318
 Submitted batch job 43713061
+Submitted batch job 43713171
+Submitted batch job 43713335
+Submitted batch job 43713385
+Submitted batch job 43713435
+Submitted batch job 43713583
+sbatch: error: Batch script contains DOS line breaks (\r\n)
+sbatch: error: instead of expected UNIX line breaks (\n).

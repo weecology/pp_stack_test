@@ -17,6 +17,6 @@ rm -f portal_predictions_latest.sif
 rm -rf portalPredictions
 rm -rf forecasts
 singularity pull docker://weecology/portal_predictions
-git clone https://github.com/weecology/portalPredictions.git
+git clone -b portalcasting_v0.14.0 https://github.com/weecology/portalPredictions.git
 cd portalPredictions
 singularity run ../portal_predictions_latest.sif Rscript stack_test.R
