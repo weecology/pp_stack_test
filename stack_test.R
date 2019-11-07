@@ -1,2 +1,2 @@
 library(portalcasting)
-print("hello world")
+setup_dir()
