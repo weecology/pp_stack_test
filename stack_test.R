@@ -1,4 +1,5 @@
 library(portalcasting)
 #setup_dir()
 dir.create("casts")
-save(a = "a", file = "casts/a.RData")
+a <- "a"
+save(a, file = "casts/a.RData")
