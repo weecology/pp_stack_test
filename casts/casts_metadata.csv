@@ -1,5 +1,0 @@
-"cast_id","cast_group","cast_date","start_moon","end_moon","lead_time","model","data_set","portalcasting_version","QAQC","notes"
-0,0,NA,NA,NA,NA,NA,NA,NA,FALSE,NA
-1,1,"2019-11-07",217,524,12,"ESSS","all_interp","0.15.0",TRUE,NA
-2,1,"2019-11-07",217,524,12,"ESSS","controls_interp","0.15.0",TRUE,NA
-3,1,"2019-11-07",217,524,12,"ESSS","exclosures_interp","0.15.0",TRUE,NA

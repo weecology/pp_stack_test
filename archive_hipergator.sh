@@ -7,7 +7,7 @@ git commit -m "stack_testing"
 
 git remote add deploy https://${GITHUB_TOKEN}@github.com/weecology/pp_stack_test.git > /dev/null 2>&1
 
-current_date="abcd"
+current_date=`date -I | head -c 10`
 git tag $current_date
 
 git push --quiet deploy master > /dev/null 2>&1
