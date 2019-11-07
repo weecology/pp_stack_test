@@ -5,5 +5,4 @@ git checkout master
 git add casts/* 
 git commit -m "trying to push"
 
-git remote add deploy master
-git push deploy master
+git push origin
